@@ -1,0 +1,181 @@
+individual	major diet components
+HG00097	Cereals
+HG00100	Cereals
+HG00101	Cereals
+HG00105	Cereals
+HG00106	Cereals
+HG00112	Cereals
+HG00113	Cereals
+HG00117	Cereals
+HG00118	Cereals
+HG00120	Cereals
+HG00125	Cereals
+HG00129	Cereals
+HG00131	Cereals
+HG00132	Cereals
+HG00136	Cereals
+HG00403	Cereals
+HG00404	Cereals
+HG00409	Cereals
+HG00410	Cereals
+HG00422	Cereals
+HG00428	Cereals
+HG00442	Cereals
+HG00446	Cereals
+HG00458	Cereals
+HG00472	Cereals
+HG00473	Cereals
+HG00478	Cereals
+HG00500	Cereals
+HG00524	Cereals
+HG00531	Cereals
+HG00554	Cereals
+HG00637	Cereals
+HG00732	Cereals
+HG00737	Cereals
+HG00740	Cereals
+HG01052	Cereals
+HG01058	Cereals
+HG01060	Cereals
+HG01064	Cereals
+HG01072	Cereals
+HG01112	Roots and Tubers
+HG01119	Roots and Tubers
+HG01121	Roots and Tubers
+HG01122	Roots and Tubers
+HG01124	Roots and Tubers
+HG01130	Roots and Tubers
+HG01131	Roots and Tubers
+HG01133	Roots and Tubers
+HG01134	Roots and Tubers
+HG01136	Roots and Tubers
+HG01139	Roots and Tubers
+HG01140	Roots and Tubers
+HG01142	Roots and Tubers
+HG01148	Roots and Tubers
+HG01250	Roots and Tubers
+HG01251	Roots and Tubers
+HG01253	Roots and Tubers
+HG01254	Roots and Tubers
+HG01256	Roots and Tubers
+HG01259	Roots and Tubers
+HG01260	Roots and Tubers
+HG01272	Roots and Tubers
+HG01275	Roots and Tubers
+HG01277	Roots and Tubers
+HG01280	Roots and Tubers
+HG01281	Roots and Tubers
+HG01284	Roots and Tubers
+HG01342	Roots and Tubers
+HG01344	Roots and Tubers
+HG01345	Roots and Tubers
+HG01565	Cereals
+HG01571	Cereals
+HG01572	Cereals
+HG01577	Cereals
+HG01921	Cereals
+HG01926	Cereals
+HG01933	Cereals
+HG01938	Cereals
+HG01945	Cereals
+HG01951	Cereals
+HG02461	Roots and Tubers
+HG02462	Roots and Tubers
+HG02562	Roots and Tubers
+HG02568	Roots and Tubers
+HG02570	Roots and Tubers
+HG02574	Roots and Tubers
+HG02582	Roots and Tubers
+HG02586	Roots and Tubers
+HG02594	Roots and Tubers
+HG02703	Roots and Tubers
+HG02715	Roots and Tubers
+HG02722	Roots and Tubers
+HG02757	Roots and Tubers
+HG02760	Roots and Tubers
+HG02769	Roots and Tubers
+HG03054	Cereals
+HG03058	Cereals
+HG03060	Cereals
+HG03061	Cereals
+HG03066	Cereals
+HG03072	Cereals
+HG03073	Cereals
+HG03077	Cereals
+HG03078	Cereals
+HG03084	Cereals
+HG03085	Cereals
+HG03091	Cereals
+HG03096	Cereals
+HG03097	Cereals
+HG03212	Cereals
+NA18488	Roots and Tubers
+NA18489	Roots and Tubers
+NA18504	Roots and Tubers
+NA18508	Roots and Tubers
+NA18510	Roots and Tubers
+NA18511	Roots and Tubers
+NA18516	Roots and Tubers
+NA18522	Roots and Tubers
+NA18523	Roots and Tubers
+NA18856	Roots and Tubers
+NA18864	Roots and Tubers
+NA18868	Roots and Tubers
+NA18870	Roots and Tubers
+NA18871	Roots and Tubers
+NA18876	Roots and Tubers
+NA18939	Cereals
+NA18940	Cereals
+NA18941	Cereals
+NA18945	Cereals
+NA18946	Cereals
+NA18952	Cereals
+NA18953	Cereals
+NA18957	Cereals
+NA18960	Cereals
+NA18965	Cereals
+NA18972	Cereals
+NA18977	Cereals
+NA18984	Cereals
+NA18989	Cereals
+NA18991	Cereals
+NA19019	Fat, meat or milk
+NA19026	Fat, meat or milk
+NA19037	Fat, meat or milk
+NA19038	Fat, meat or milk
+NA19309	Fat, meat or milk
+NA19316	Fat, meat or milk
+NA19323	Fat, meat or milk
+NA19328	Fat, meat or milk
+NA19347	Fat, meat or milk
+NA19350	Fat, meat or milk
+NA19355	Fat, meat or milk
+NA19374	Fat, meat or milk
+NA19378	Fat, meat or milk
+NA19379	Fat, meat or milk
+NA19380	Fat, meat or milk
+NA19652	Cereals
+NA19657	Cereals
+NA19658	Cereals
+NA19664	Cereals
+NA19669	Cereals
+NA19676	Cereals
+NA19684	Cereals
+NA19716	Cereals
+NA19722	Cereals
+NA19723	Cereals
+NA20503	Cereals
+NA20504	Cereals
+NA20508	Cereals
+NA20509	Cereals
+NA20510	Cereals
+NA20511	Cereals
+NA20515	Cereals
+NA20516	Cereals
+NA20522	Cereals
+NA20527	Cereals
+NA20528	Cereals
+NA20530	Cereals
+NA20534	Cereals
+NA20535	Cereals
+NA20539	Cereals
